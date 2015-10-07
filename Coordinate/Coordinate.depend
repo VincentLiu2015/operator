@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1444204422 source:c:\users\qi\documents\github\coordinate\coordinate.cpp
+	"Coordinate.h"
+
+1444204410 c:\users\qi\documents\github\coordinate\coordinate.h
+	<iostream>
+
